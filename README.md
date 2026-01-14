@@ -15,7 +15,7 @@ PALMSLAM is a handheld lidar mapping scanner device that is compatible with 5 co
 * Can installmobile phones/iOS and Android APP:PALMSLAM comes with a rotating mobile phone holder. After installing the mobile phone and APP, users can view the specific situation in real time on the mobile phone APP while mapping.
 
 # Required Best Buy Links
-[By on Yahboom website](https://category.yahboom.net/products/palmslam)
+[Buy on Yahboom website](https://category.yahboom.net/products/palmslam)
 
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
